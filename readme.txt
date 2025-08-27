@@ -1,9 +1,9 @@
 === LLMs.txt Sitemap Manager ===
 Contributors: delower186, sandaliaapps
 Tags: AI SEO, LLM sitemap, ChatGPT integration, RankMath friendly, Yoast compatible
-Requires at least: 6.4 or higher
+Requires at least: 6.4
 Tested up to: 6.8
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 Requires PHP: 7.2.24
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -69,7 +69,11 @@ Yes! LLMs.txt Sitemap Manager works seamlessly with Yoast SEO, Rank Math, and AI
 Absolutely! You can select post types, order them, and configure how frequently the file updates.  
 
 == Changelog ==
-= 1.0 =
+
+= 1.0.1 =
+* bug fixed
+
+= 1.0.0 =
 * Initial release with automatic LLMs.txt generation, SEO plugin integration, custom post type selection, cache management, and AI crawler detection.
 
 == Upgrade Notice ==
