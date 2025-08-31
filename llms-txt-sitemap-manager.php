@@ -3,7 +3,7 @@
 Plugin Name: LLMs.txt Sitemap Manager
 Plugin URI: https://sandalia.com.bd/apps/view_project.php?slug=llms-txt-sitemap-manager
 Description: Automatically generate and manage LLMs.txt files for AI/LLM consumption, with seamless integration for SEO plugins like Yoast SEO and Rank Math.
-Version:1.0.1
+Version:1.0.2
 Author: Delower
 Author URI: https://github.com/delower186
 License: GPLv2 or later

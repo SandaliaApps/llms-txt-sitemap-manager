@@ -97,5 +97,16 @@ add_action('admin_init', function() {
         'llmstxtsm_settings',
         'llmstxtsm_main_section'
     );
+
+    add_settings_field(
+        'sitemap_view',
+        'Sitemap',
+        function() {
+            $site_root_url = site_url() . '/llms.txt';
+            echo '<a target="_blank" href='.esc_url($site_root_url).'>'.esc_url($site_root_url).'</a>';
+        },
+        'llmstxtsm_settings',
+        'llmstxtsm_main_section'
+    );
 });
 

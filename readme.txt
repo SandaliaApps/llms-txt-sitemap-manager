@@ -3,7 +3,7 @@ Contributors: delower186, sandaliaapps
 Tags: AI SEO, LLM sitemap, ChatGPT integration, RankMath friendly, Yoast compatible
 Requires at least: 6.4
 Tested up to: 6.8
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 Requires PHP: 7.2.24
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -46,16 +46,21 @@ I provide custom WordPress plugin development, feature requests, and tailored so
 
 = Contact for Custom Development =
 🌐 Website: [https://sandalia.com.bd/apps](https://sandalia.com.bd/apps)  
-💼 Upwork: [Upwork](https://www.upwork.com/freelancers/delower)  
-💼 Linkedin: [Linkedin](https://www.linkedin.com/in/delower186/)
+💼 Upwork (Delower): [https://www.upwork.com/freelancers/delower](https://www.upwork.com/freelancers/delower)
+💼 Linkedin (Delower): [https://www.linkedin.com/in/delower186/](https://www.linkedin.com/in/delower186/)
+💼 Linkedin (Sandalia): [https://www.linkedin.com/company/sandalia-apps/](https://www.linkedin.com/company/sandalia-apps/)
 
 = Do You need any Data Scraping Services? Try =
-🌐 Apify Marketplace: [SandaliaApps](https://apify.com/sandaliaapps)
+🌐 Marketplace: [https://apify.com/sandaliaapps](https://apify.com/sandaliaapps)
 
 == Try My Other Plugins ==
 
-= You might also enjoy my other plugins: = 
-[WP TO Do](https://wordpress.org/plugins/wp-todo)
+= WP TO Do =
+[WP TO Do](https://wordpress.org/plugins/wp-todo/) is a powerful WordPress plugin that allows you to create, manage, and track tasks effortlessly. It’s perfect for individuals, teams, and businesses looking to stay organized and boost productivity.
+
+= Project Manager Pro =
+[Project Manager Pro](https://wordpress.org/plugins/project-manager-pro/) is a lightweight and easy-to-use plugin that allows you to create, manage, and track projects and tasks directly within WordPress.
+
 
 == Frequently Asked Questions ==
 
@@ -69,6 +74,10 @@ Yes! LLMs.txt Sitemap Manager works seamlessly with Yoast SEO, Rank Math, and AI
 Absolutely! You can select post types, order them, and configure how frequently the file updates.  
 
 == Changelog ==
+
+= 1.0.2 =
+* Readme.txt updated
+* Sitemap link added to the dashboard
 
 = 1.0.1 =
 * bug fixed
